@@ -1,5 +1,5 @@
-{ 
-  //小程序页面
+{
+  /*小程序的页面*/
   "pages": [
     "pages/index/index",
     "pages/logs/logs"
@@ -7,7 +7,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "嘉兴学院数信学院——学生查询",
+    "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",
